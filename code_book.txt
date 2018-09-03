@@ -1,0 +1,30 @@
+ This is the code book. The notable columns are:
+ 
+ "Subject": this is the subject id who was tested
+ "Activity" : the kind of measured activity
+ 
+ [1] "Subject"                      "Activity"                     "tBodyAccMeanX"                "tBodyAccMeanY"               
+ [5] "tBodyAccMeanZ"                "tBodyAccStdX"                 "tBodyAccStdY"                 "tBodyAccStdZ"                
+ [9] "tGravityAccMeanX"             "tGravityAccMeanY"             "tGravityAccMeanZ"             "tGravityAccStdX"             
+[13] "tGravityAccStdY"              "tGravityAccStdZ"              "tBodyAccJerkMeanX"            "tBodyAccJerkMeanY"           
+[17] "tBodyAccJerkMeanZ"            "tBodyAccJerkStdX"             "tBodyAccJerkStdY"             "tBodyAccJerkStdZ"            
+[21] "tBodyGyroMeanX"               "tBodyGyroMeanY"               "tBodyGyroMeanZ"               "tBodyGyroStdX"               
+[25] "tBodyGyroStdY"                "tBodyGyroStdZ"                "tBodyGyroJerkMeanX"           "tBodyGyroJerkMeanY"          
+[29] "tBodyGyroJerkMeanZ"           "tBodyGyroJerkStdX"            "tBodyGyroJerkStdY"            "tBodyGyroJerkStdZ"           
+[33] "tBodyAccMagMean"              "tBodyAccMagStd"               "tGravityAccMagMean"           "tGravityAccMagStd"           
+[37] "tBodyAccJerkMagMean"          "tBodyAccJerkMagStd"           "tBodyGyroMagMean"             "tBodyGyroMagStd"             
+[41] "tBodyGyroJerkMagMean"         "tBodyGyroJerkMagStd"          "fBodyAccMeanX"                "fBodyAccMeanY"               
+[45] "fBodyAccMeanZ"                "fBodyAccStdX"                 "fBodyAccStdY"                 "fBodyAccStdZ"                
+[49] "fBodyAccMeanFreqX"            "fBodyAccMeanFreqY"            "fBodyAccMeanFreqZ"            "fBodyAccJerkMeanX"           
+[53] "fBodyAccJerkMeanY"            "fBodyAccJerkMeanZ"            "fBodyAccJerkStdX"             "fBodyAccJerkStdY"            
+[57] "fBodyAccJerkStdZ"             "fBodyAccJerkMeanFreqX"        "fBodyAccJerkMeanFreqY"        "fBodyAccJerkMeanFreqZ"       
+[61] "fBodyGyroMeanX"               "fBodyGyroMeanY"               "fBodyGyroMeanZ"               "fBodyGyroStdX"               
+[65] "fBodyGyroStdY"                "fBodyGyroStdZ"                "fBodyGyroMeanFreqX"           "fBodyGyroMeanFreqY"          
+[69] "fBodyGyroMeanFreqZ"           "fBodyAccMagMean"              "fBodyAccMagStd"               "fBodyAccMagMeanFreq"         
+[73] "fBodyBodyAccJerkMagMean"      "fBodyBodyAccJerkMagStd"       "fBodyBodyAccJerkMagMeanFreq"  "fBodyBodyGyroMagMean"        
+[77] "fBodyBodyGyroMagStd"          "fBodyBodyGyroMagMeanFreq"     "fBodyBodyGyroJerkMagMean"     "fBodyBodyGyroJerkMagStd"     
+[81] "fBodyBodyGyroJerkMagMeanFreq
+
+The labels are:
+
+"WALKING"            "WALKING_UPSTAIRS"   "WALKING_DOWNSTAIRS" "SITTING"            "STANDING"           "LAYING"
